@@ -35,7 +35,7 @@ Before running the application first install the following dependencies.
 
 ## Usage
 
-To use the quantitative analysis application simply clone the repository, and create a new_folder to save your **risk_return_analysis.ipynb** . Navigate to that folder within your terminal, and type the following :
+To use the quantitative analysis application, simply clone the repository and create a new_folder to save your **risk_return_analysis.ipynb** . Navigate to that folder within your terminal, and type the following :
 
 ```new_folder
    jupyter lab 
