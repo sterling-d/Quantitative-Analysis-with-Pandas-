@@ -1,4 +1,6 @@
-# Quantitative Analysis with Pandas 
+# Quantitative Analysis with Pandas
+
+This repo determines which fund has the most investment potential. We are using daily returns, standard deviations, Sharpe ratios, and betas to determine the most worthwhile asset to invest in. 
 
 ---
 
