@@ -35,3 +35,10 @@ To use the quantitative analysis application simply clone the repository, and cr
 ```new_folder
    jupyter lab 
 ```
+
+Upon launching the quantitative analysis application you will be able to view the following cumulative & daily return graphs for our portfolio: 
+
+<img width="1440" alt="Screen Shot 2022-10-14 at 12 03 45 PM" src="https://user-images.githubusercontent.com/105071493/195949074-e9ea17a1-9c1e-44b0-86b7-029e6fbb5d72.png">
+
+<img width="1440" alt="Screen Shot 2022-10-14 at 12 05 56 PM" src="https://user-images.githubusercontent.com/105071493/195949088-87fb5d61-4d00-47ef-81f0-b7549a111b4a.png">
+
