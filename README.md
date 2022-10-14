@@ -20,10 +20,9 @@ This project leverages python 3.7 with the following packages:
 
 Before running the application first install the following dependencies.
 
-```pandas as pd 
-numpy as np
-from pathlib import Path
-%matplotlib inline 
+```pip install pandas
+   pip install numpy
+   pip install Path
 ```
 
 ---
