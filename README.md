@@ -29,8 +29,8 @@ Before running the application first install the following dependencies.
 
 ## Usage
 
-To use the loan qualifier application simply clone the repository and run the **risk_return_analysis.ipynb** with:
+To use the quantitative analysis application simply clone the repository, and create a new_folder to save your **risk_return_analysis.ipynb** . Navigate to that folder within your terminal, and type the following :
 
-```python
-python risk_return_analysis.ipynb
+```new_folder
+   jupyter lab 
 ```
