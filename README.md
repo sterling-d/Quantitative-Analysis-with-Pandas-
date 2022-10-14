@@ -20,7 +20,8 @@ This project leverages python 3.7 with the following packages:
 
 Before running the application first install the following dependencies.
 
-```pip install pandas
+```python
+   pip install pandas
    pip install numpy
    pip install Path
 ```
