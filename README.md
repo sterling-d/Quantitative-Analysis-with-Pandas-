@@ -8,7 +8,7 @@ This repo determines which fund has the most investment potential. We are using 
 
 This project leverages python 3.7 with the following packages:
 
-* [pandas](https://github.com/pandas-dev/pandas) - For DataFrames
+* [pandas](https://github.com/pandas-dev/pandas) - For cleaning and filtering the data.
 
 * [numpy](https://github.com/numpy/numpy) - For mathematical operations on arrays.
 
