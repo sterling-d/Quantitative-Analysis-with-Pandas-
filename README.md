@@ -18,21 +18,6 @@ This project leverages python 3.7 with the following packages:
 
 ---
 
-## Installation Guide
-
-Before running the application first install the following dependencies.
-
-```
-   python
-   pip install pandas
-   pip install numpy
-   pip install Path
-   pip install matplotlib
-   
-```
-
----
-
 ## Usage
 
 To use the quantitative analysis application, simply clone the repository and create a new_folder to save your **risk_return_analysis.ipynb** . Navigate to that folder within your terminal, and type the following :
